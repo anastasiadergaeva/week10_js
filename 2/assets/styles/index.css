@@ -18,7 +18,7 @@ img {
     width: 564px;
     height: 564px;
     margin: 30px auto;
-    overflow: hidden;
+    overflow: hidden; 
 }
 
 .slider__img {
