@@ -11,7 +11,7 @@ body {
 .main {
     display: flex;
     flex-direction: column;
-    gap: 3em;
+    gap: 1.5em;
 }
 
 .artcontent {
@@ -45,4 +45,12 @@ body {
     border-radius: 6px;
     border: 3px solid #b8994584;
     cursor: pointer;
+}
+
+.totalprice {
+    align-self: center;
+    width: 20em;
+    height: 2em;
+    padding-left: 90px;
+    letter-spacing: 0.09rem;
 }
